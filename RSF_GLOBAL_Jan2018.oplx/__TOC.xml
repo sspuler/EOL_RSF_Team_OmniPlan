@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omniplan xmlns="http://www.omnigroup.com/namespace/OmniPlan/v2" xmlns:opnx="http://www.omnigroup.com/namespace/OmniPlan/v2">
+  <window x="2031" y="0" w="1632" h="1108">
+    <editing-scenario>dK1wLvSjlWn</editing-scenario>
+    <comparison-scenario>pSb015zTYsw</comparison-scenario>
+    <view>task</view>
+    <change-tracking/>
+    <status-display>basic</status-display>
+    <task-view>
+      <split-view-divider-position>359</split-view-divider-position>
+      <outline x="0" y="0" w="359" h="1027">
+        <column name="Title" width="236"/>
+        <column name="Notes" width="20"/>
+        <column name="Violations" width="20"/>
+        <column name="%Done" width="78"/>
+        <expanded-items idrefs="t1366 t653 t519 t450 t1322 t654 t1389 t667 t489 t507 t993 t451 t655 t668 t1345 t1463 t508 t1323 t994 t656 t453 t995 t644 t466 t70 t848 t1418 t441 t41 t454 t645 t467 t658 t1085 t633 t1393 t468 t590 t1371 t430 t621 t456 t1231 t998 t469 t431 t444 t457 t1182 t648 t610 t432 t1114 t1444 t458 t649 t580 t593 t1422 t611 t433 t637 t1349 t594 t421 t612 t434 t1115 t1423 t422 t977 t435 t626 t448 t570 t952 t410 t601 t423 t436 t1280 t978 t449 t393 t411 t424 t1330 t628 t394 t1469 t1045 t598 t425 t438 t1353 t1141 t400 t586 t604 t426 t599 t617 t439 t561 t396 t401 t587 t605 t427 t1164 t1236 t575 t402 t397 t588 t1002 t1450 t550 t1047 t589 t33 t429 t1237 t1025 t564 t730 t552 t947 t418 t1238 t566 t579 t1004 t1240 t541 t567 t758 t407 t720 t1239 t555 t1145 t568 t1381 t690 t408 t530 t1241 t721 t543 t569 t691 t409 t1168 t531 t544 t939 t1170 t1336 t710 t532 t1242 t1360 t545 t901 t558 t927 t1169 t520 t693 t711 t1193 t546 t559 t490 t521 t1455 t712 t534 t547 t491 t140 t695 t522 t700 t713 t535 t548 t492 t683 t701 t696 t1244 t523 t714 t727 t1222 t493 t671 t684 t702 t715 t537 t728 t1385 t494 t672 t685 t703 t525 t698 t1363 t538 t716 t729 t660 t482 t673 t500 t495 t686 t513 t699 t526 t1196 t717 t539 t470 t661 t496 t501 t687 t1128 t527 t718 t471 t662 t497 t688 t515 t706 t528 t719 t1320 t472 t1269 t485 t498 t689 t516 t707 t529 t651 t473 t295 t664 t486 t517 t708 t652 t665"/>
+        <expanded-item-notes idrefs="t1156 t1386 t1129 t1359 t1428 t1145 t1419 t1127 t1348 t1134 t1275 t1105 t1197 t1411 t1271 t1400 t1157 t1387 t1369 t1164 t1429 t68 t1289 t1349 t1418 t1374 t1365 t1372 t1198 t1423 t1276 t1361 t1352 t1158"/>
+        <selected-items-at-filter-time idrefs="t1016 t1238 t1349 t972 t861 t981 t835 t1066 t955 t844 t1288 t1444 t929 t1333 t973 t938 t760 t947 t880 t1494 t1383 t956 t845 t1128 t1017 t1239 t974 t939 t1506 t863 t761 t1067 t957 t846 t1289 t1112 t1334 t966 t975 t762 t873 t949 t1162 t958 t993 t1384 t1129 t856 t1018 t865 t1507 t976 t754 t763 t994 t959 t848 t1113 t1002 t1335 t977 t1052 t884 t995 t1385 t1019 t1430 t969 t978 t765 t1480 t996 t1003 t1114 t859 t1336 t979 t877 t1164 t1386 t997 t1053 t1431 t1509 t758 t878 t1370 t1481 t998 t887 t1337 t1004 t1115 t879 t1387 t1165 t1054 t1432 t1210 t897 t1371 t1260 t1482 t1116 t1338 t1005 t898 t1388 t1166 t1055 t1433 t1211 t1100 t1261 t1372 t1483 t1006 t1339 t1117 t1389 t1056 t1167 t1101 t1212 t1373 t1484 t1262 t1118 t1057 t1168 t1213 t1435 t1263 t1485 t1152 t1374 t1008 t1119 t1169 t1058 t1103 t1214 t1153 t1264 t1009 t1092 t1059 t1470 t1215 t1104 t1487 t1154 t1265 t1093 t1360 t1471 t1105 t1216 t1488 t1266 t1155 t1200 t1094 t1472 t1361 t1250 t1106 t1217 t1267 t1378 t1156 t1045 t1201 t1312 t1423 t1095 t1362 t1251 t1140 t1473 t1329 t1107 t1218 t1379 t1157 t1268 t1202 t1313 t1424 t1096 t1363 t1141 t1219 t1108 t1191 t1047 t1158 t1425 t1314 t1097 t1475 t1081 t1192 t1315 t1426 t1098 t1365 t1476 t1193 t1082 t1049 t1460 t1205 t1427 t1099 t1477 t1366 t1411 t1083 t1461 t1428 t1367 t1478 t1145 t1084 t1195 t1351 t1462 t1240 t1318 t1429 t1290 t1479 t1368 t1146 t1196 t1085 t1352 t1241 t1463 t1291 t1258 t1147 t1369 t1197 t1086 t1242 t1020 t1464 t1353 t1070 t1292 t1181 t1198 t1132 t1354 t1465 t1243 t1182 t1293 t1071 t1199 t1133 t1466 t1355 t1244 t1400 t1511 t1183 t1072 t1294 t1450 t1356 t1134 t1245 t1467 t1512 t1401 t1184 t1451 t1340 t1135 t1246 t1402 t1074 t1296 t1185 t1341 t1452 t1391 t1280 t1469 t1247 t1025 t1358 t1297 t1453 t1120 t1231 t1170 t1281 t1392 t1026 t1359 t1137 t1232 t1454 t1171 t1393 t1282 t1027 t1249 t1138 t1405 t1077 t1455 t1233 t901 t910 t1172 t1394 t1283 t1139 t1406 t911 t920 t1234 t1456 t1345 t1501 t1062 t1173 t1284 t930 t1407 t904 t913 t1235 t1124 t1457 t931 t1346 t940 t1502 t1285 t1330 t932 t941 t830 t950 t915 t1347 t1236 t933 t1014 t1458 t942 t951 t916 t1064 t1286 t960 t925 t1220 t1331 t934 t943 t952 t917 t1381 t850 t926 t1015 t1459 t1348 t1237 t944 t909 t833 t953 t1065 t1287 t1398 t851 t927 t1443 t936 t980 t834 t954 t919 t1160 t1493 t852 t1127"/>
+      </outline>
+      <gantt-view x="14022" y="0" w="971" h="1027">
+        <view-mode>actual</view-mode>
+        <critical-path/>
+        <dependency-lines/>
+        <constraints/>
+        <task-bar-label task-type="group" position="left">
+          <key>Title</key>
+        </task-bar-label>
+        <task-bar-label task-type="group" position="center">
+          <key/>
+        </task-bar-label>
+        <task-bar-label task-type="group" position="right">
+          <key>Assigned</key>
+        </task-bar-label>
+        <task-bar-label task-type="milestone" position="left">
+          <key/>
+        </task-bar-label>
+        <task-bar-label task-type="milestone" position="center">
+          <key/>
+        </task-bar-label>
+        <task-bar-label task-type="milestone" position="right">
+          <key>Assigned</key>
+        </task-bar-label>
+        <task-bar-label task-type="task" position="left">
+          <key>Title</key>
+        </task-bar-label>
+        <task-bar-label task-type="task" position="center">
+          <key/>
+        </task-bar-label>
+        <task-bar-label task-type="task" position="right">
+          <key>Assigned</key>
+        </task-bar-label>
+        <scale scale-name="Automatic" full-day-width="7.36469"/>
+        <scale scale-name="Day" full-day-width="405"/>
+        <scale scale-name="Hour" full-day-width="21960"/>
+        <scale scale-name="Minute" full-day-width="21600"/>
+        <scale scale-name="Month" full-day-width="19.3161"/>
+        <scale scale-name="Quarter" full-day-width="5.1872">
+          <selected/>
+        </scale>
+        <scale scale-name="Week" full-day-width="2.30187"/>
+        <scale scale-name="Year" full-day-width="1.94957"/>
+        <offtime-display>all</offtime-display>
+      </gantt-view>
+    </task-view>
+    <resource-view>
+      <split-view-divider-position>320</split-view-divider-position>
+      <outline x="0" y="0" w="305" h="1476">
+        <column name="Resource" width="190"/>
+        <column name="Notes" width="20"/>
+        <column name="Type" width="49"/>
+        <column name="Schedule Exception" width="20"/>
+        <column name="Custom Work Week" width="20"/>
+        <expanded-items idrefs="r113 r65 r21 r116 r112 r4 r10 r66 r119 r121 r109 r115 r106 r1 r114"/>
+        <selected-items-at-filter-time idrefs="r143 r127 r128 r142 r136 r126 r149 r145 r139 r141 r135 r131 r148 r129 r138 r130 r124 r125 r140"/>
+      </outline>
+      <timeline x="7804" y="0" w="1879" h="1476">
+        <offtime-display>all</offtime-display>
+        <resource-allocation/>
+        <task-bar-label task-type="group" position="left">
+          <key>Title</key>
+        </task-bar-label>
+        <task-bar-label task-type="group" position="center">
+          <key/>
+        </task-bar-label>
+        <task-bar-label task-type="group" position="right">
+          <key/>
+        </task-bar-label>
+        <task-bar-label task-type="milestone" position="left">
+          <key>Title</key>
+        </task-bar-label>
+        <task-bar-label task-type="milestone" position="center">
+          <key/>
+        </task-bar-label>
+        <task-bar-label task-type="milestone" position="right">
+          <key>Assigned</key>
+        </task-bar-label>
+        <task-bar-label task-type="task" position="left">
+          <key>Title</key>
+        </task-bar-label>
+        <task-bar-label task-type="task" position="center">
+          <key/>
+        </task-bar-label>
+        <task-bar-label task-type="task" position="right">
+          <key/>
+        </task-bar-label>
+        <scale scale-name="Automatic" full-day-width="45"/>
+        <scale scale-name="Day" full-day-width="405"/>
+        <scale scale-name="Hour" full-day-width="21960"/>
+        <scale scale-name="Minute" full-day-width="21600"/>
+        <scale scale-name="Month" full-day-width="11.5"/>
+        <scale scale-name="Quarter" full-day-width="3.2">
+          <selected/>
+        </scale>
+        <scale scale-name="Week" full-day-width="54"/>
+        <scale scale-name="Year" full-day-width="2.60034"/>
+      </timeline>
+    </resource-view>
+    <calendar>
+      <split-view-divider-position>349</split-view-divider-position>
+      <outline x="0" y="0" w="334" h="1308">
+        <column name="Notes" width="20"/>
+        <column name="Type" width="49"/>
+        <column name="Resource" width="219"/>
+        <column name="Custom Work Week" width="20"/>
+        <column name="Schedule Exception" width="20"/>
+        <expanded-items idrefs="r113 r65 r21 r10 r106 r112 r4 r66 r119 r109 r115 r121 r1 r116 r114"/>
+      </outline>
+    </calendar>
+    <network-view>
+      <network-view>
+        <task-table-style/>
+        <milestone-table-style/>
+        <group-table-style/>
+      </network-view>
+    </network-view>
+  </window>
+  <project>
+    <title>RSF_Global_Gantt</title>
+    <next-task-id>1514</next-task-id>
+    <next-resource-id>150</next-resource-id>
+    <scenario id="dK1wLvSjlWn" name="Actual" filename="koXlAiAgZIy.xml"/>
+    <scenario id="pSb015zTYsw" name="Baseline" filename="dSm66E2ip4I.xml"/>
+    <date-display dates="true" times="false" seconds="false"/>
+    <numbering-style>wbs</numbering-style>
+    <no-numbers/>
+    <critical-path-slack>0</critical-path-slack>
+    <currency-format>$1,234.56</currency-format>
+    <duration-format hours-per-day="8" hours-per-week="40" hours-per-month="160" hours-per-year="1920" hours="true" days="true" weeks="true"/>
+    <effort-format hours-per-day="8" hours-per-week="40" hours-per-month="160" hours-per-year="1920" hours="true" days="true" weeks="true"/>
+    <base-style>
+      <style>
+        <value key="font-size">11</value>
+        <value key="gantt-separator-color">
+          <color space="srgb" r="0.698665" g="0.698714" b="0.698688" a="0.4"/>
+        </value>
+        <value key="gantt-time-off-color">
+          <color space="srgb" r="0.912321" g="0.912383" b="0.912352" a="0.4"/>
+        </value>
+        <value key="gantt-today-color">
+          <color space="srgb" r="0.73516" g="0.872318" b="1" a="0.4"/>
+        </value>
+      </style>
+    </base-style>
+    <column-title-style>
+      <style>
+        <value key="font-weight">9</value>
+        <value key="paragraph-alignment">center</value>
+      </style>
+    </column-title-style>
+    <note-style>
+      <style>
+        <value key="font-fill">
+          <color space="gg22" w="0.626065"/>
+        </value>
+        <value key="font-italic">yes</value>
+        <value key="gantt-fill-color">
+          <color space="srgb" r="0.450688" g="0.831875" b="0.896"/>
+        </value>
+      </style>
+    </note-style>
+    <standard-task-style>
+      <style/>
+    </standard-task-style>
+    <overdue-task-style>
+      <style/>
+    </overdue-task-style>
+    <completed-task-style>
+      <style/>
+    </completed-task-style>
+    <group-task-style>
+      <style>
+        <value key="font-weight">9</value>
+      </style>
+    </group-task-style>
+    <milestone-task-style>
+      <style>
+        <value key="gantt-fill-color">
+          <color space="srgb" r="0.988" g="0.458381" b="0.211432"/>
+        </value>
+      </style>
+    </milestone-task-style>
+    <resource-style>
+      <style/>
+    </resource-style>
+    <not-editable-style>
+      <style>
+        <value key="font-fill">
+          <color space="gg22" w="0.626065"/>
+        </value>
+      </style>
+    </not-editable-style>
+    <named-styles>
+      <named-style id="gr3QceGN9QW" name="H2O" display-order="0">
+        <style>
+          <value key="font-size">10</value>
+          <value key="gantt-fill-color">
+            <color space="srgb" r="0.794361" g="0.64461" b="0.960771"/>
+          </value>
+          <value key="text-background-color">
+            <color space="srgb" r="0.999988" g="1" b="1"/>
+          </value>
+        </style>
+      </named-style>
+      <named-style id="oLWeLnM9-xY" name="HOLODEC" display-order="1">
+        <style>
+          <value key="gantt-fill-color">
+            <color space="srgb" r="0.976298" g="0.719683" b="0.505003"/>
+          </value>
+        </style>
+      </named-style>
+      <named-style id="o5_7Td6LcsO" name="LAMS" display-order="2">
+        <style>
+          <value key="gantt-fill-color">
+            <color space="srgb" r="0.353796" g="0.915691" b="0.723236"/>
+          </value>
+        </style>
+      </named-style>
+      <named-style id="cqyDPuiafB0" name="CAMS" display-order="3">
+        <style>
+          <value key="gantt-fill-color">
+            <color space="srgb" r="0.982976" g="0.584802" b="0.506543"/>
+          </value>
+        </style>
+      </named-style>
+      <named-style id="a5JSnjtchi3" name="CO2" display-order="4">
+        <style>
+          <value key="gantt-fill-color">
+            <color space="srgb" r="0.962581" g="0.886815" b="0.491096"/>
+          </value>
+        </style>
+      </named-style>
+      <named-style id="aYkzvWr6nNp" name="HCR" display-order="5">
+        <style>
+          <value key="gantt-fill-color">
+            <color space="srgb" r="0.450688" g="0.831875" b="0.896"/>
+          </value>
+        </style>
+      </named-style>
+      <named-style id="ceaaQLKByMJ" name="SPOL" display-order="6">
+        <style>
+          <value key="gantt-fill-color">
+            <color space="srgb" r="0.988" g="0.458381" b="0.211432"/>
+          </value>
+        </style>
+      </named-style>
+      <named-style id="aNvm3mr7DhM" name="APAR" display-order="7">
+        <style>
+          <value key="gantt-fill-color">
+            <color space="srgb" r="0" g="0.560318" b="0"/>
+          </value>
+        </style>
+      </named-style>
+    </named-styles>
+    <publish>
+      <key>etag</key>
+      <string>&quot;b40fa-55b496b753c00&quot;</string>
+      <key>active</key>
+      <string>YES</string>
+      <key>last-updated</key>
+      <date>2017-10-11T18:16:14.318Z</date>
+      <key>class</key>
+      <string>OPWebDAVChangeSyncAction</string>
+      <key>lastSeenChange</key>
+      <date>2017-10-11T18:16:13.453Z</date>
+      <key>uuid</key>
+      <string>leeJAu_Ci52</string>
+    </publish>
+    <subscribe-refresh>0</subscribe-refresh>
+    <leveling>
+      <updates-selected-tasks/>
+    </leveling>
+    <printinfo-dictionary>
+      <key>OPPrintSettingPrintOption</key>
+      <integer>1</integer>
+      <key>NSTopMargin</key>
+      <real>90</real>
+      <key>NSBottomMargin</key>
+      <real>90</real>
+      <key>NSRightMargin</key>
+      <real>72</real>
+      <key>NSLeftMargin</key>
+      <real>72</real>
+      <key>NSPaperName</key>
+      <string>na-letter</string>
+      <key>NSOrientation</key>
+      <integer>1</integer>
+      <key>OPPrintSettingPrintDisplayOption</key>
+      <integer>0</integer>
+      <key>NSScalingFactor</key>
+      <real>1</real>
+      <key>NSPrinterName</key>
+      <string>sharp317</string>
+    </printinfo-dictionary>
+    <page-adornment>
+      <master-page-headers>
+        <header location="left">
+          <text>
+            <p>
+              <run>
+                <style>
+                  <value key="font-family">Helvetica</value>
+                  <value key="paragraph-alignment">natural</value>
+                </style>
+                <lit><cell variable="OPDocumentTitleVariableIdentifier"/></lit>
+              </run>
+            </p>
+          </text>
+        </header>
+        <header location="right">
+          <text>
+            <p>
+              <run>
+                <style>
+                  <value key="font-family">Helvetica</value>
+                  <value key="paragraph-alignment">natural</value>
+                </style>
+                <lit><cell variable="OPPrintJobTimestampVariableIdentifier"/></lit>
+              </run>
+            </p>
+          </text>
+        </header>
+        <footer location="left">
+          <text>
+            <p>
+              <run>
+                <style>
+                  <value key="font-family">Helvetica</value>
+                  <value key="paragraph-alignment">natural</value>
+                </style>
+                <lit><cell variable="OPDocumentFilenameVariableIdentifier"/></lit>
+              </run>
+            </p>
+          </text>
+        </footer>
+        <footer location="right">
+          <text>
+            <p>
+              <run>
+                <style>
+                  <value key="font-family">Helvetica</value>
+                  <value key="paragraph-alignment">natural</value>
+                </style>
+                <lit><cell variable="OPPageNumberVariableIdentifier"/></lit>
+              </run>
+            </p>
+          </text>
+        </footer>
+      </master-page-headers>
+    </page-adornment>
+  </project>
+</omniplan>

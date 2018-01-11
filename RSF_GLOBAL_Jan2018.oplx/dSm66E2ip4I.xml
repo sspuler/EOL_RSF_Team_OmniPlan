@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario xmlns="http://www.omnigroup.com/namespace/OmniPlan/v2" xmlns:opns="http://www.omnigroup.com/namespace/OmniPlan/v2" id="pSb015zTYsw">
+  <start-date>2009-12-01T15:00:00.000Z</start-date>
+  <named-styles-proxy>
+    <named-style-proxy name="H2O" id="gr3QceGN9QW"/>
+    <named-style-proxy name="HOLODEC" id="oLWeLnM9-xY"/>
+    <named-style-proxy name="LAMS" id="o5_7Td6LcsO"/>
+    <named-style-proxy name="CAMS" id="cqyDPuiafB0"/>
+    <named-style-proxy name="CO2" id="a5JSnjtchi3"/>
+    <named-style-proxy name="HCR" id="aYkzvWr6nNp"/>
+    <named-style-proxy name="SPOL" id="ceaaQLKByMJ"/>
+    <named-style-proxy name="APAR" id="aNvm3mr7DhM"/>
+  </named-styles-proxy>
+  <top-resource idref="r-1"/>
+  <resource id="r-1">
+    <name/>
+    <type>Group</type>
+    <schedule>
+      <schedule-day day-of-week="sunday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="monday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="tuesday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="wednesday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="thursday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="friday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="saturday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+    </schedule>
+    <child-resource idref="r1"/>
+    <child-resource idref="r121"/>
+    <child-resource idref="r3"/>
+    <child-resource idref="r2"/>
+    <child-resource idref="r7"/>
+    <child-resource idref="r21"/>
+    <child-resource idref="r4"/>
+    <child-resource idref="r10"/>
+    <child-resource idref="r12"/>
+    <child-resource idref="r64"/>
+    <child-resource idref="r65"/>
+    <child-resource idref="r66"/>
+    <child-resource idref="r106"/>
+    <child-resource idref="r109"/>
+    <child-resource idref="r110"/>
+    <child-resource idref="r112"/>
+    <child-resource idref="r113"/>
+    <child-resource idref="r114"/>
+    <child-resource idref="r115"/>
+    <child-resource idref="r116"/>
+    <child-resource idref="r117"/>
+    <child-resource idref="r119"/>
+  </resource>
+  <resource id="r1">
+    <name>spuler</name>
+    <type>Staff</type>
+    <schedule>
+      <schedule-day day-of-week="sunday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="monday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="tuesday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="wednesday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="thursday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="friday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="saturday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+    </schedule>
+  </resource>
+  <resource id="r2">
+    <name>murphy</name>
+    <type>Staff</type>
+    <schedule>
+      <schedule-day day-of-week="sunday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="monday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="tuesday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="wednesday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="thursday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="friday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="saturday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+    </schedule>
+  </resource>
+  <resource id="r3">
+    <name>richter</name>
+    <type>Staff</type>
+    <cost-per-hour>51</cost-per-hour>
+    <address-book-uid>93299595-9EF3-48D1-849E-5CFA698B650E:ABPerson</address-book-uid>
+    <email-address>dr@ucar.edu</email-address>
+  </resource>
+  <resource id="r4">
+    <name>rauenbuehler</name>
+    <type>Staff</type>
+    <schedule>
+      <schedule-day day-of-week="sunday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="monday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="tuesday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="wednesday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="thursday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="friday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="saturday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+    </schedule>
+  </resource>
+  <resource id="r7">
+    <name>spowart</name>
+    <type>Staff</type>
+    <schedule>
+      <schedule-day day-of-week="sunday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="monday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="tuesday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="wednesday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="thursday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="friday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+      <schedule-day day-of-week="saturday">
+        <time-span start-time="0" end-time="86400"/>
+      </schedule-day>
+    </schedule>
+  </resource>
+  <resource id="r10">
+    <name>schwenz</name>
+    <type>Staff</type>
+  </resource>
+  <resource id="r12">
+    <name>morley</name>
+    <type>Staff</type>
+  </resource>
+  <resource id="r21">
+    <name>DFS</name>
+    <type>Material</type>
+    <units-available>0</units-available>
+    <efficiency>0</efficiency>
+  </resource>
+  <resource id="r64">
+    <name>vanAndel</name>
+    <type>Staff</type>
+  </resource>
+  <resource id="r65">
+    <name>erickson</name>
+    <type>Staff</type>
+  </resource>
+  <resource id="r66">
+    <name>vivek</name>
+    <type>Staff</type>
+  </resource>
+  <resource id="r106">
+    <name>eloranta</name>
+    <type>Staff</type>
+  </resource>
+  <resource id="r109">
+    <name>ranson</name>
+    <type>Staff</type>
+  </resource>
+  <resource id="r110">
+    <name>nehrir</name>
+    <type>Staff</type>
+  </resource>
+  <resource id="r112">
+    <name>gabbard</name>
+    <type>Staff</type>
+  </resource>
+  <resource id="r113">
+    <name>hayman</name>
+    <type>Staff</type>
+  </resource>
+  <resource id="r114">
+    <name>repasky</name>
+    <type>Staff</type>
+  </resource>
+  <resource id="r115">
+    <name>holden</name>
+    <type>Staff</type>
+  </resource>
+  <resource id="r116">
+    <name>weckwerth</name>
+    <type>Staff</type>
+  </resource>
+  <resource id="r117">
+    <name>abari</name>
+    <type>Staff</type>
+  </resource>
+  <resource id="r119">
+    <name>dixon</name>
+    <type>Staff</type>
+  </resource>
+  <resource id="r121">
+    <name>irwin</name>
+    <type>Staff</type>
+  </resource>
+  <top-task idref="t-1"/>
+  <task id="t-1">
+    <title>FY2010_A</title>
+    <type>group</type>
+    <start-constraint-date>2010-03-05T15:00:00.000Z</start-constraint-date>
+    <child-task idref="t3"/>
+    <child-task idref="t2"/>
+    <start-no-earlier-than>2010-03-05T15:00:00.000Z</start-no-earlier-than>
+  </task>
+  <task id="t2">
+    <title>3D LAMS</title>
+    <type>group</type>
+    <start-constraint-date>2010-03-05T15:00:00.000Z</start-constraint-date>
+    <child-task idref="t679"/>
+    <start-no-earlier-than>2010-03-05T15:00:00.000Z</start-no-earlier-than>
+  </task>
+  <task id="t3">
+    <title>HOLODEC</title>
+    <type>group</type>
+    <start-constraint-date>2010-05-03T19:05:35.000Z</start-constraint-date>
+    <child-task idref="t680"/>
+    <start-no-earlier-than>2010-05-03T19:05:35.000Z</start-no-earlier-than>
+  </task>
+  <task id="t68">
+    <title>New data system</title>
+    <effort>1152002</effort>
+    <effort-done>1130976</effort-done>
+    <start-constraint-date>2010-05-03T19:05:35.000Z</start-constraint-date>
+    <assignment idref="r12" units="0.329999983310699"/>
+    <start-no-earlier-than>2010-05-03T19:05:35.000Z</start-no-earlier-than>
+  </task>
+  <task id="t70">
+    <title>Redesign of Optics Subsystems</title>
+    <effort>1460772</effort>
+    <effort-done>48960</effort-done>
+    <start-constraint-date>2010-05-03T19:05:35.000Z</start-constraint-date>
+    <assignment idref="r1" units="0.0999999940395355"/>
+    <start-no-earlier-than>2010-05-03T19:05:35.000Z</start-no-earlier-than>
+  </task>
+  <task id="t395">
+    <title>IDEAS test flights</title>
+    <effort>604800</effort>
+    <effort-done>604800</effort-done>
+    <start-constraint-date>2010-11-22T16:17:45.000Z</start-constraint-date>
+    <start-no-earlier-than>2010-11-22T16:17:45.000Z</start-no-earlier-than>
+  </task>
+  <task id="t476">
+    <title>Wing-pod </title>
+    <type>group</type>
+    <start-constraint-date>2010-06-22T15:41:50.000Z</start-constraint-date>
+    <start-no-earlier-than>2010-06-22T15:41:50.000Z</start-no-earlier-than>
+  </task>
+  <task id="t477">
+    <title>Data Acquisition</title>
+    <type>group</type>
+    <start-constraint-date>2010-03-05T15:00:00.000Z</start-constraint-date>
+    <start-no-earlier-than>2010-03-05T15:00:00.000Z</start-no-earlier-than>
+  </task>
+  <task id="t478">
+    <title>IDEAS 2011</title>
+    <type>group</type>
+    <start-constraint-date>2010-11-22T16:17:45.000Z</start-constraint-date>
+    <start-no-earlier-than>2010-11-22T16:17:45.000Z</start-no-earlier-than>
+  </task>
+  <task id="t638">
+    <title>DOE upgrades and test</title>
+    <type>group</type>
+    <child-task idref="t70"/>
+    <child-task idref="t395"/>
+  </task>
+  <task id="t679">
+    <title>complete</title>
+    <type>group</type>
+    <child-task idref="t476"/>
+    <child-task idref="t477"/>
+    <child-task idref="t478"/>
+  </task>
+  <task id="t680">
+    <title>complete</title>
+    <type>group</type>
+    <child-task idref="t68"/>
+    <child-task idref="t638"/>
+  </task>
+  <critical-path root="-1" enabled="true" resources="false">
+    <color r="1" g="0.5" b="0.5"/>
+  </critical-path>
+</scenario>
